@@ -1,0 +1,5 @@
+https://fsng.eu.auth0.com/authorize?audience=Coffee_Shop&response_type=token&client_id=JJyGVUn8GlxzcUl2X3zmuAbbaH0v9VT2&redirect_uri=http://127.0.0.1:5000/login-result
+
+https://fsng.eu.auth0.com/authorize?audience=Coffee_Shop&response_type=token&client_id=JJyGVUn8GlxzcUl2X3zmuAbbaH0v9VT2&redirect_uri=http://127.0.0.1:8100/tabs/user-page/tabs/user-page
+
+
